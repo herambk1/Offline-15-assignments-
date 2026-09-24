@@ -1,0 +1,20 @@
+empid,empname,city,sal,age,dob,dept
+E003,Michael Brown,Chicago,65400,41,1984-02-11,Engineering
+E007,Matthew Lee,San Antonio,62300,26,1999-03-14,Engineering
+E013,Jacob Young,Fort Worth,69300,28,1997-04-02,Engineering
+E018,Natalie Green,Seattle,88700,39,1986-03-21,Engineering
+E021,Henry Rivera,Boston,71800,32,1993-05-10,Engineering
+E027,Elijah Roberts,Oklahoma City,61100,28,1997-12-22,Engineering
+E033,Logan Edwards,Tucson,65200,27,1998-05-14,Engineering
+E037,David Morris,Atlanta,83300,39,1986-03-03,Engineering
+E043,James Murphy,Oakland,79900,37,1988-01-25,Engineering
+E049,Mason Howard,Tampa,68800,32,1993-09-08,Engineering
+E055,Julian James,Riverside,74900,33,1992-11-19,Engineering
+E060,Addison Price,St. Louis,78900,35,1990-02-14,Engineering
+E065,Thomas Henderson,Lincoln,77300,30,1995-03-17,Engineering
+E071,Caleb Patterson,St. Paul,74400,33,1992-08-02,Engineering
+E074,Brooklyn Bryant,Henderson,91700,41,1984-03-29,Engineering
+E080,Aaliyah West,Laredo,89700,38,1987-09-07,Engineering
+E085,Adrian Patterson,Hialeah,71800,31,1994-05-12,Engineering
+E091,Carter Lowe,Irving,68300,28,1997-09-19,Engineering
+E097,Camden Bush,Modesto,72800,32,1993-04-03,Engineering
