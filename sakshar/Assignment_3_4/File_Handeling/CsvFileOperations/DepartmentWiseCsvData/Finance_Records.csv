@@ -1,0 +1,4 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Email,Phone,Salary,Joining_Date,Location
+EMP003,Michael,Williams,Finance,Financial Analyst,michael.williams@example.com,9876543212,62000,2023-03-10,Bangalore
+EMP009,Benjamin,Taylor,Finance,Accountant,benjamin.taylor@example.com,9876543218,60000,2023-05-22,Bangalore
+EMP013,Ethan,White,Finance,Finance Manager,ethan.white@example.com,9876543222,82000,2020-12-01,Pune
