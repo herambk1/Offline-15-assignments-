@@ -1,0 +1,4 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Email,Phone,Salary,Joining_Date,Location
+EMP002,Emma,Johnson,HR,HR Manager,emma.johnson@example.com,9876543211,68000,2022-06-20,Mumbai
+EMP008,Ava,Moore,HR,Recruiter,ava.moore@example.com,9876543217,52000,2024-02-19,Mumbai
+EMP014,Charlotte,Harris,HR,HR Executive,charlotte.harris@example.com,9876543223,54000,2024-03-11,Bangalore

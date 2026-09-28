@@ -1,0 +1,6 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Email,Phone,Salary,Joining_Date,Location
+EMP001,John,Smith,Engineering,Software Engineer,john.smith@example.com,9876543210,75000,2023-01-15,Pune
+EMP005,James,Davis,Engineering,Senior Developer,james.davis@example.com,9876543214,90000,2021-11-25,Hyderabad
+EMP007,William,Wilson,Engineering,QA Engineer,william.wilson@example.com,9876543216,65000,2022-09-12,Pune
+EMP012,Mia,Jackson,Engineering,Data Engineer,mia.jackson@example.com,9876543221,85000,2023-10-05,Hyderabad
+EMP015,Alexander,Martin,Engineering,DevOps Engineer,alexander.martin@example.com,9876543224,88000,2022-12-19,Mumbai
