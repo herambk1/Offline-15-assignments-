@@ -1,0 +1,3 @@
+id,name,role,email,skills,status
+101,John Doe,Senior Software Engineer,john.doe@techcorp.com,"['Python', 'Docker', 'Kubernetes']",Active
+102,Jane Smith,DevOps Engineer,jane.smith@techcorp.com,"['AWS', 'Terraform', 'CI/CD']",Active
