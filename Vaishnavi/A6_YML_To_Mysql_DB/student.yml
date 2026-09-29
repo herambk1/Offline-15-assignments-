@@ -1,0 +1,47 @@
+students:
+  - student_id: 101
+    name: Amit Sharma
+    age: 21
+    city: Pune
+    course: Python
+    marks: 85
+    skills: Python
+    address: Wakad
+
+
+  - student_id: 102
+    name: Priya Patil
+    age: 22
+    city: Mumbai
+    course: Data Science
+    marks: 92
+    skills: Python
+    address: Andheri
+
+
+  - student_id: 103
+    name: Rahul Deshmukh
+    age: 20
+    city: Nashik
+    course: Data Engineering
+    marks: 78
+    skills: SQL
+    address: CollegeRoad
+
+  - student_id: 104
+    name: Sneha Kulkarni
+    age: 23
+    city: Kolhapur
+    course: AI
+    marks: 88
+    skills: TensorFlow
+    address: Rajarampuri
+
+  - student_id: 105
+    name: Rohit Jadhav
+    age: 21
+    city: Sangli
+    course: Java
+    marks: 81
+    skills: MySQL
+    address: Vishrambag
