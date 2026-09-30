@@ -1,0 +1,10 @@
+1,Emily,Johnson,Smith,28,Female
+2,Michael,Williams,N/A,35,Male
+3,Sophia,Brown,N/A,42,Female
+4,James,Davis,N/A,45,Male
+5,Emma,Miller,Johnson,30,Female
+6,Olivia,Wilson,N/A,22,Female
+7,Alexander,Jones,N/A,38,Male
+8,Ava,Taylor,N/A,27,Female
+9,Ethan,Martinez,N/A,33,Male
+10,Isabella,Anderson,Davis,31,Female
