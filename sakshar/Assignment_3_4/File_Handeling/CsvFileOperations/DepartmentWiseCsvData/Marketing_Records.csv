@@ -1,0 +1,3 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Email,Phone,Salary,Joining_Date,Location
+EMP004,Olivia,Brown,Marketing,Marketing Executive,olivia.brown@example.com,9876543213,55000,2024-01-08,Pune
+EMP010,Isabella,Anderson,Marketing,Marketing Manager,isabella.anderson@example.com,9876543219,72000,2021-08-30,Chennai
