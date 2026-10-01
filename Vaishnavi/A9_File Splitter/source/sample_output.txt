@@ -1,0 +1,1 @@
+{'characters': 4846, 'words': 705, 'numeric': 51, 'special_characters': 287, 'lines': 105}

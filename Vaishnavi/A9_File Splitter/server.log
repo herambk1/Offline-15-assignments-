@@ -1,0 +1,60 @@
+01-Oct-2026 10:43:42 PM - __main__ - INFO - Program started....!
+01-Oct-2026 10:44:15 PM - main.py - INFO - Program started....!
+01-Oct-2026 10:54:05 PM - main.py - INFO - Program started
+01-Oct-2026 10:54:05 PM - fetch_files.py - INFO - Fetching files from source
+01-Oct-2026 10:54:05 PM - fetch_files.py - INFO - Files fetched successfully
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - Reading file: Emp_Data.csv
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - File read successfully: Emp_Data.csv
+01-Oct-2026 10:54:05 PM - file_extension.py - INFO - Extension found for Emp_Data.csv: csv
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\csv\Emp_Data.csv
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - File written successfully: Emp_Data.csv
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - Reading file: fetch_files.py
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - File read successfully: fetch_files.py
+01-Oct-2026 10:54:05 PM - file_extension.py - INFO - Extension found for fetch_files.py: py
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\py\fetch_files.py
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - File written successfully: fetch_files.py
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - Reading file: file_extension.py
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - File read successfully: file_extension.py
+01-Oct-2026 10:54:05 PM - file_extension.py - INFO - Extension found for file_extension.py: py
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\py\file_extension.py
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - File written successfully: file_extension.py
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - Reading file: sample_output.txt
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - File read successfully: sample_output.txt
+01-Oct-2026 10:54:05 PM - file_extension.py - INFO - Extension found for sample_output.txt: txt
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\txt\sample_output.txt
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - File written successfully: sample_output.txt
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - Reading file: Untitled.ipynb
+01-Oct-2026 10:54:05 PM - read_data.py - INFO - File read successfully: Untitled.ipynb
+01-Oct-2026 10:54:05 PM - file_extension.py - INFO - Extension found for Untitled.ipynb: ipynb
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\ipynb\Untitled.ipynb
+01-Oct-2026 10:54:05 PM - write_File.py - INFO - File written successfully: Untitled.ipynb
+01-Oct-2026 10:54:05 PM - main.py - INFO - Program completed
+01-Oct-2026 10:55:29 PM - main.py - INFO - Program started
+01-Oct-2026 10:55:29 PM - fetch_files.py - INFO - Fetching files from source
+01-Oct-2026 10:55:29 PM - fetch_files.py - INFO - Files fetched successfully
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - Reading file: Emp_Data.csv
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - File read successfully: Emp_Data.csv
+01-Oct-2026 10:55:29 PM - file_extension.py - INFO - Extension found for Emp_Data.csv: csv
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\csv\Emp_Data.csv
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - File written successfully: Emp_Data.csv
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - Reading file: fetch_files.py
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - File read successfully: fetch_files.py
+01-Oct-2026 10:55:29 PM - file_extension.py - INFO - Extension found for fetch_files.py: py
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\py\fetch_files.py
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - File written successfully: fetch_files.py
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - Reading file: file_extension.py
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - File read successfully: file_extension.py
+01-Oct-2026 10:55:29 PM - file_extension.py - INFO - Extension found for file_extension.py: py
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\py\file_extension.py
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - File written successfully: file_extension.py
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - Reading file: sample_output.txt
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - File read successfully: sample_output.txt
+01-Oct-2026 10:55:29 PM - file_extension.py - INFO - Extension found for sample_output.txt: txt
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\txt\sample_output.txt
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - File written successfully: sample_output.txt
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - Reading file: Untitled.ipynb
+01-Oct-2026 10:55:29 PM - read_data.py - INFO - File read successfully: Untitled.ipynb
+01-Oct-2026 10:55:29 PM - file_extension.py - INFO - Extension found for Untitled.ipynb: ipynb
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - Writing file: C:\Users\vaish\Downloads\Python\Assesments\A09_File Splitter\destination\ipynb\Untitled.ipynb
+01-Oct-2026 10:55:29 PM - write_File.py - INFO - File written successfully: Untitled.ipynb
+01-Oct-2026 10:55:29 PM - main.py - INFO - Program completed
