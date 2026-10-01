@@ -1,0 +1,14 @@
+28-09-2026 11:42:02 AM - __main__ - INFO - Source folder: C:\Users\Admin\PycharmProjects\Assignment09\source
+28-09-2026 11:42:02 AM - __main__ - INFO - Destination folder: C:\Users\Admin\PycharmProjects\Assignment09\destination
+28-09-2026 11:42:02 AM - file_organizer - INFO - Created folder: C:\Users\Admin\PycharmProjects\Assignment09\destination\csv
+28-09-2026 11:42:02 AM - file_organizer - INFO - Created folder: C:\Users\Admin\PycharmProjects\Assignment09\destination\pdf
+28-09-2026 11:42:02 AM - file_organizer - INFO - Created folder: C:\Users\Admin\PycharmProjects\Assignment09\destination\json
+28-09-2026 11:42:02 AM - file_organizer - INFO - Created folder: C:\Users\Admin\PycharmProjects\Assignment09\destination\yaml
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\Datawarehouse Concept_Part1.pdf to C:\Users\Admin\PycharmProjects\Assignment09\destination\pdf\Datawarehouse Concept_Part1.pdf
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\emp.csv.csv to C:\Users\Admin\PycharmProjects\Assignment09\destination\csv\emp.csv.csv
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\emp.json.json to C:\Users\Admin\PycharmProjects\Assignment09\destination\json\emp.json.json
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\emp_yaml.yml to C:\Users\Admin\PycharmProjects\Assignment09\destination\yaml\emp_yaml.yml
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\emp_yaml_csv.csv to C:\Users\Admin\PycharmProjects\Assignment09\destination\csv\emp_yaml_csv.csv
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\ETL Concepts.pdf to C:\Users\Admin\PycharmProjects\Assignment09\destination\pdf\ETL Concepts.pdf
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\Finance_records.csv to C:\Users\Admin\PycharmProjects\Assignment09\destination\csv\Finance_records.csv
+28-09-2026 11:42:02 AM - file_organizer - INFO - File moved from C:\Users\Admin\PycharmProjects\Assignment09\source\OLTP_vs_OLAP_Banking_Detailed_Guide.pdf to C:\Users\Admin\PycharmProjects\Assignment09\destination\pdf\OLTP_vs_OLAP_Banking_Detailed_Guide.pdf
