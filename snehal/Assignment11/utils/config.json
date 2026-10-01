@@ -1,0 +1,16 @@
+{
+    "sftp": {
+        "host": "eu-central-1.sftpcloud.io",
+        "username": "17ac911d567444eda0202dd173f0aad3",
+        "password": "gdQLFSAVC2JRnlfFX2gGnXVo9D9dctAy",
+        "port": 22,
+        "file_name": "Assignment11.csv"
+    },
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "database": "assignment11",
+        "table": "customer_data"
+    }
+}
