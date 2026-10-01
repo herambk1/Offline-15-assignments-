@@ -1,0 +1,21 @@
+student_id,name,age,city,course,marks
+101,Amit Sharma,21,Pune,Python,85
+102,Priya Patil,22,Mumbai,Data Science,91
+103,Rahul Kulkarni,20,Pune,SQL,78
+104,Sneha Joshi,21,Nashik,Python,88
+105,Akash Deshmukh,23,Kolhapur,Data Engineering,82
+106,Neha Shah,20,Mumbai,Machine Learning,94
+107,Rohit Patil,22,Pune,SQL,76
+108,Pooja More,21,Sangli,Python,89
+109,Vikas Jadhav,24,Satara,Data Science,72
+110,Kiran Pawar,22,Pune,Power BI,86
+111,Anjali Desai,20,Mumbai,Python,93
+112,Sachin Chavan,23,Sangli,SQL,81
+113,Meena Shinde,21,Kolhapur,Data Science,87
+114,Omkar Mane,22,Pune,Machine Learning,79
+115,Riya Kadam,20,Nashik,Python,95
+116,Aditya Pawar,23,Satara,Data Engineering,84
+117,Komal Patil,21,Sangli,Power BI,90
+118,Tejas More,22,Mumbai,SQL,74
+119,Shweta Jadhav,20,Pune,Data Science,92
+120,Harsh Kulkarni,24,Kolhapur,Machine Learning,80

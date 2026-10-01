@@ -1,0 +1,1193 @@
+26-Sep-26 11:43:08 AM - fetch_csv_files.py - INFO - csv file fetching started...
+26-Sep-26 11:43:08 AM - fetch_csv_files.py - INFO - csv file fetching finished...
+26-Sep-26 11:43:08 AM - main.py - INFO - program started...
+26-Sep-26 11:43:08 AM - main.py - INFO - source is C:\Users\vaish\OneDrive\Documents\Destination
+26-Sep-26 11:43:08 AM - main.py - INFO - fetching csv files
+26-Sep-26 11:48:11 AM - fetch_csv_files.py - INFO - csv file fetching started...
+26-Sep-26 11:48:11 AM - fetch_csv_files.py - INFO - csv file fetching finished...
+26-Sep-26 11:48:11 AM - main.py - INFO - program started...
+26-Sep-26 11:48:11 AM - main.py - INFO - source is C:\Users\vaish\OneDrive\Documents\Destination
+26-Sep-26 11:48:11 AM - main.py - INFO - fetching csv files
+26-Sep-26 11:48:11 AM - main.py - INFO - files is ['Bangalore.csv', 'Delhi.csv', 'Hyderabad.csv', 'Mumbai.csv', 'Pune.csv']
+26-Sep-26 11:48:11 AM - DB_config.py - INFO - Reading config file: config.json
+26-Sep-26 11:48:11 AM - DB_config.py - INFO - Config file read successfully
+26-Sep-26 11:48:11 AM - main.py - INFO - reading file Bangalore.csv
+26-Sep-26 11:48:11 AM - read_csv.py - INFO - Reading CSV file: Bangalore.csv
+26-Sep-26 11:48:11 AM - read_csv.py - ERROR - Error while reading CSV file Bangalore.csv: name 'csv' is not defined
+26-Sep-26 11:48:11 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:48:59 AM - fetch_csv_files.py - INFO - csv file fetching started...
+26-Sep-26 11:48:59 AM - fetch_csv_files.py - INFO - csv file fetching finished...
+26-Sep-26 11:48:59 AM - main.py - INFO - program started...
+26-Sep-26 11:48:59 AM - main.py - INFO - source is C:\Users\vaish\OneDrive\Documents\Destination
+26-Sep-26 11:48:59 AM - main.py - INFO - fetching csv files
+26-Sep-26 11:48:59 AM - main.py - INFO - files is ['Bangalore.csv', 'Delhi.csv', 'Hyderabad.csv', 'Mumbai.csv', 'Pune.csv']
+26-Sep-26 11:48:59 AM - DB_config.py - INFO - Reading config file: config.json
+26-Sep-26 11:48:59 AM - DB_config.py - INFO - Config file read successfully
+26-Sep-26 11:48:59 AM - main.py - INFO - reading file Bangalore.csv
+26-Sep-26 11:48:59 AM - read_csv.py - INFO - Reading CSV file: Bangalore.csv
+26-Sep-26 11:48:59 AM - read_csv.py - ERROR - Error while reading CSV file Bangalore.csv: name 'csv' is not defined
+26-Sep-26 11:48:59 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:49:34 AM - fetch_csv_files.py - INFO - csv file fetching started...
+26-Sep-26 11:49:34 AM - fetch_csv_files.py - INFO - csv file fetching finished...
+26-Sep-26 11:49:34 AM - main.py - INFO - program started...
+26-Sep-26 11:49:34 AM - main.py - INFO - source is C:\Users\vaish\OneDrive\Documents\Destination
+26-Sep-26 11:49:34 AM - main.py - INFO - fetching csv files
+26-Sep-26 11:49:34 AM - main.py - INFO - files is ['Bangalore.csv', 'Delhi.csv', 'Hyderabad.csv', 'Mumbai.csv', 'Pune.csv']
+26-Sep-26 11:49:34 AM - DB_config.py - INFO - Reading config file: config.json
+26-Sep-26 11:49:34 AM - DB_config.py - INFO - Config file read successfully
+26-Sep-26 11:49:34 AM - main.py - INFO - reading file Bangalore.csv
+26-Sep-26 11:49:34 AM - read_csv.py - INFO - Reading CSV file: Bangalore.csv
+26-Sep-26 11:49:34 AM - read_csv.py - ERROR - Error while reading CSV file Bangalore.csv: name 'csv' is not defined
+26-Sep-26 11:50:56 AM - fetch_csv_files.py - INFO - csv file fetching started...
+26-Sep-26 11:50:56 AM - fetch_csv_files.py - INFO - csv file fetching finished...
+26-Sep-26 11:50:56 AM - main.py - INFO - program started...
+26-Sep-26 11:50:56 AM - main.py - INFO - source is C:\Users\vaish\OneDrive\Documents\Destination
+26-Sep-26 11:50:56 AM - main.py - INFO - fetching csv files
+26-Sep-26 11:50:56 AM - main.py - INFO - files is ['Bangalore.csv', 'Delhi.csv', 'Hyderabad.csv', 'Mumbai.csv', 'Pune.csv']
+26-Sep-26 11:50:56 AM - DB_config.py - INFO - Reading config file: config.json
+26-Sep-26 11:50:56 AM - DB_config.py - INFO - Config file read successfully
+26-Sep-26 11:50:56 AM - main.py - INFO - reading file Bangalore.csv
+26-Sep-26 11:50:56 AM - read_csv.py - INFO - Reading CSV file: Bangalore.csv
+26-Sep-26 11:50:56 AM - read_csv.py - INFO - CSV file read successfully: Bangalore.csv
+26-Sep-26 11:50:56 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:50:56 AM - fetch_header.py - INFO - Header fetched successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - header is ['emp_id', 'name', 'age', 'city', 'department', 'salary']
+26-Sep-26 11:50:56 AM - main.py - INFO - mergging started
+26-Sep-26 11:50:56 AM - merge_files.py - INFO - Merging CSV data into merged.csv
+26-Sep-26 11:50:56 AM - merge_files.py - INFO - Header written to merged.csv
+26-Sep-26 11:50:56 AM - merge_files.py - INFO - CSV data merged successfully
+26-Sep-26 11:50:56 AM - main.py - INFO - all files merged
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1003
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1003,'Rahul Jadhav',24,'Bangalore','Operations',40500)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1008
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1008,'Pooja Patil',29,'Bangalore','Operations',54250)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1013
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1013,'Saurabh Jadhav',34,'Bangalore','Operations',68000)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1018
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1018,'Meera Patil',25,'Bangalore','Operations',81750)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1023
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1023,'Rahul Jadhav',30,'Bangalore','Operations',40499)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1028
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1028,'Pooja Patil',35,'Bangalore','Operations',54249)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1033
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1033,'Saurabh Jadhav',26,'Bangalore','Operations',67999)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:56 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:56 AM - main.py - INFO - generating query
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Creating insert query for employee: 1038
+26-Sep-26 11:50:56 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:56 AM - main.py - DEBUG - query is insert into employee_data values(1038,'Meera Patil',31,'Bangalore','Operations',81749)
+26-Sep-26 11:50:56 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:56 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1043
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1043,'Rahul Jadhav',22,'Bangalore','Operations',40498)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1048
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1048,'Pooja Patil',27,'Bangalore','Operations',54248)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1053
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1053,'Saurabh Jadhav',32,'Bangalore','Operations',67998)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1058
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1058,'Meera Patil',23,'Bangalore','Operations',81748)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1063
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1063,'Rahul Jadhav',28,'Bangalore','Operations',40497)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1068
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1068,'Pooja Patil',33,'Bangalore','Operations',54247)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1073
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1073,'Saurabh Jadhav',24,'Bangalore','Operations',67997)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1078
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1078,'Meera Patil',29,'Bangalore','Operations',81747)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1083
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1083,'Rahul Jadhav',34,'Bangalore','Operations',40496)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1088
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1088,'Pooja Patil',25,'Bangalore','Operations',54246)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1093
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1093,'Saurabh Jadhav',30,'Bangalore','Operations',67996)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1098
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1098,'Meera Patil',35,'Bangalore','Operations',81746)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - reading file Delhi.csv
+26-Sep-26 11:50:57 AM - read_csv.py - INFO - Reading CSV file: Delhi.csv
+26-Sep-26 11:50:57 AM - read_csv.py - INFO - CSV file read successfully: Delhi.csv
+26-Sep-26 11:50:57 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:50:57 AM - fetch_header.py - INFO - Header fetched successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - header is ['emp_id', 'name', 'age', 'city', 'department', 'salary']
+26-Sep-26 11:50:57 AM - main.py - INFO - mergging started
+26-Sep-26 11:50:57 AM - merge_files.py - INFO - Merging CSV data into merged.csv
+26-Sep-26 11:50:57 AM - merge_files.py - INFO - CSV data merged successfully
+26-Sep-26 11:50:57 AM - main.py - INFO - all files merged
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1004
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1004,'Sneha Gupta',25,'Delhi','HR',43250)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1009
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1009,'Karan Joshi',30,'Delhi','HR',57000)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1014
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1014,'Kavita Gupta',35,'Delhi','HR',70750)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1019
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1019,'Varun Joshi',26,'Delhi','HR',84500)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1024
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1024,'Sneha Gupta',31,'Delhi','HR',43249)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1029
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1029,'Karan Joshi',22,'Delhi','HR',56999)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1034
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1034,'Kavita Gupta',27,'Delhi','HR',70749)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1039
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1039,'Varun Joshi',32,'Delhi','HR',84499)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1044
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1044,'Sneha Gupta',23,'Delhi','HR',43248)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1049
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1049,'Karan Joshi',28,'Delhi','HR',56998)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1054
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1054,'Kavita Gupta',33,'Delhi','HR',70748)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1059
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1059,'Varun Joshi',24,'Delhi','HR',84498)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1064
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1064,'Sneha Gupta',29,'Delhi','HR',43247)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1069
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1069,'Karan Joshi',34,'Delhi','HR',56997)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:57 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:57 AM - main.py - INFO - generating query
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Creating insert query for employee: 1074
+26-Sep-26 11:50:57 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:57 AM - main.py - DEBUG - query is insert into employee_data values(1074,'Kavita Gupta',25,'Delhi','HR',70747)
+26-Sep-26 11:50:57 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:57 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1079
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1079,'Varun Joshi',30,'Delhi','HR',84497)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1084
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1084,'Sneha Gupta',35,'Delhi','HR',43246)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1089
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1089,'Karan Joshi',26,'Delhi','HR',56996)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1094
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1094,'Kavita Gupta',31,'Delhi','HR',70746)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1099
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1099,'Varun Joshi',22,'Delhi','HR',84496)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - reading file Hyderabad.csv
+26-Sep-26 11:50:58 AM - read_csv.py - INFO - Reading CSV file: Hyderabad.csv
+26-Sep-26 11:50:58 AM - read_csv.py - INFO - CSV file read successfully: Hyderabad.csv
+26-Sep-26 11:50:58 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:50:58 AM - fetch_header.py - INFO - Header fetched successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - header is ['emp_id', 'name', 'age', 'city', 'department', 'salary']
+26-Sep-26 11:50:58 AM - main.py - INFO - mergging started
+26-Sep-26 11:50:58 AM - merge_files.py - INFO - Merging CSV data into merged.csv
+26-Sep-26 11:50:58 AM - merge_files.py - INFO - CSV data merged successfully
+26-Sep-26 11:50:58 AM - main.py - INFO - all files merged
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1005
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1005,'Rohit Deshmukh',26,'Hyderabad','Sales',46000)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1010
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1010,'Riya Singh',31,'Hyderabad','Sales',59750)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1015
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1015,'Nikhil Deshmukh',22,'Hyderabad','Sales',73500)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1020
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1020,'Isha Singh',27,'Hyderabad','Sales',87250)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1025
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1025,'Rohit Deshmukh',32,'Hyderabad','Sales',45999)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1030
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1030,'Riya Singh',23,'Hyderabad','Sales',59749)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1035
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1035,'Nikhil Deshmukh',28,'Hyderabad','Sales',73499)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1040
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1040,'Isha Singh',33,'Hyderabad','Sales',87249)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1045
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1045,'Rohit Deshmukh',24,'Hyderabad','Sales',45998)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1050
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1050,'Riya Singh',29,'Hyderabad','Sales',59748)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1055
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1055,'Nikhil Deshmukh',34,'Hyderabad','Sales',73498)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1060
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1060,'Isha Singh',25,'Hyderabad','Sales',87248)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1065
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1065,'Rohit Deshmukh',30,'Hyderabad','Sales',45997)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1070
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1070,'Riya Singh',35,'Hyderabad','Sales',59747)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1075
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1075,'Nikhil Deshmukh',26,'Hyderabad','Sales',73497)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1080
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1080,'Isha Singh',31,'Hyderabad','Sales',87247)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1085
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1085,'Rohit Deshmukh',22,'Hyderabad','Sales',45996)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1090
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1090,'Riya Singh',27,'Hyderabad','Sales',59746)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1095
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1095,'Nikhil Deshmukh',32,'Hyderabad','Sales',73496)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1100
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1100,'Isha Singh',23,'Hyderabad','Sales',87246)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - reading file Mumbai.csv
+26-Sep-26 11:50:58 AM - read_csv.py - INFO - Reading CSV file: Mumbai.csv
+26-Sep-26 11:50:58 AM - read_csv.py - INFO - CSV file read successfully: Mumbai.csv
+26-Sep-26 11:50:58 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:50:58 AM - fetch_header.py - INFO - Header fetched successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - header is ['emp_id', 'name', 'age', 'city', 'department', 'salary']
+26-Sep-26 11:50:58 AM - main.py - INFO - mergging started
+26-Sep-26 11:50:58 AM - merge_files.py - INFO - Merging CSV data into merged.csv
+26-Sep-26 11:50:58 AM - merge_files.py - INFO - CSV data merged successfully
+26-Sep-26 11:50:58 AM - main.py - INFO - all files merged
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1002
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1002,'Priya Kulkarni',23,'Mumbai','Finance',37750)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1007
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1007,'Akash Verma',28,'Mumbai','Finance',51500)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1012
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1012,'Anjali Kulkarni',33,'Mumbai','Finance',65250)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1017
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1017,'Aditya Verma',24,'Mumbai','Finance',79000)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1022
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1022,'Priya Kulkarni',29,'Mumbai','Finance',37749)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:58 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:58 AM - main.py - INFO - generating query
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Creating insert query for employee: 1027
+26-Sep-26 11:50:58 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:58 AM - main.py - DEBUG - query is insert into employee_data values(1027,'Akash Verma',34,'Mumbai','Finance',51499)
+26-Sep-26 11:50:58 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:58 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1032
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1032,'Anjali Kulkarni',25,'Mumbai','Finance',65249)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1037
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1037,'Aditya Verma',30,'Mumbai','Finance',78999)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1042
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1042,'Priya Kulkarni',35,'Mumbai','Finance',37748)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1047
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1047,'Akash Verma',26,'Mumbai','Finance',51498)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1052
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1052,'Anjali Kulkarni',31,'Mumbai','Finance',65248)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1057
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1057,'Aditya Verma',22,'Mumbai','Finance',78998)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1062
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1062,'Priya Kulkarni',27,'Mumbai','Finance',37747)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1067
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1067,'Akash Verma',32,'Mumbai','Finance',51497)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1072
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1072,'Anjali Kulkarni',23,'Mumbai','Finance',65247)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1077
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1077,'Aditya Verma',28,'Mumbai','Finance',78997)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1082
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1082,'Priya Kulkarni',33,'Mumbai','Finance',37746)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1087
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1087,'Akash Verma',24,'Mumbai','Finance',51496)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1092
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1092,'Anjali Kulkarni',29,'Mumbai','Finance',65246)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1097
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1097,'Aditya Verma',34,'Mumbai','Finance',78996)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - reading file Pune.csv
+26-Sep-26 11:50:59 AM - read_csv.py - INFO - Reading CSV file: Pune.csv
+26-Sep-26 11:50:59 AM - read_csv.py - INFO - CSV file read successfully: Pune.csv
+26-Sep-26 11:50:59 AM - fetch_header.py - INFO - Fetching CSV header
+26-Sep-26 11:50:59 AM - fetch_header.py - INFO - Header fetched successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - header is ['emp_id', 'name', 'age', 'city', 'department', 'salary']
+26-Sep-26 11:50:59 AM - main.py - INFO - mergging started
+26-Sep-26 11:50:59 AM - merge_files.py - INFO - Merging CSV data into merged.csv
+26-Sep-26 11:50:59 AM - merge_files.py - INFO - CSV data merged successfully
+26-Sep-26 11:50:59 AM - main.py - INFO - all files merged
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1006
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1006,'Neha Pawar',27,'Pune','IT',48750)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1011
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1011,'Vivek Sharma',32,'Pune','IT',62500)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1016
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1016,'Simran Pawar',23,'Pune','IT',76250)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1021
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1021,'Amit Sharma',28,'Pune','IT',90000)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1026
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1026,'Neha Pawar',33,'Pune','IT',48749)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1031
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1031,'Vivek Sharma',24,'Pune','IT',62499)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1036
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1036,'Simran Pawar',29,'Pune','IT',76249)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1041
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1041,'Amit Sharma',34,'Pune','IT',89999)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1046
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1046,'Neha Pawar',25,'Pune','IT',48748)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1051
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1051,'Vivek Sharma',30,'Pune','IT',62498)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:50:59 AM - main.py - INFO - all files inserted
+26-Sep-26 11:50:59 AM - main.py - INFO - generating query
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Creating insert query for employee: 1056
+26-Sep-26 11:50:59 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:50:59 AM - main.py - DEBUG - query is insert into employee_data values(1056,'Simran Pawar',35,'Pune','IT',76248)
+26-Sep-26 11:50:59 AM - main.py - INFO - inserting into database
+26-Sep-26 11:50:59 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1061
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1061,'Amit Sharma',26,'Pune','IT',89998)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1066
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1066,'Neha Pawar',31,'Pune','IT',48747)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1071
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1071,'Vivek Sharma',22,'Pune','IT',62497)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1076
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1076,'Simran Pawar',27,'Pune','IT',76247)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1081
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1081,'Amit Sharma',32,'Pune','IT',89997)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1086
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1086,'Neha Pawar',23,'Pune','IT',48746)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1091
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1091,'Vivek Sharma',28,'Pune','IT',62496)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
+26-Sep-26 11:51:00 AM - main.py - INFO - generating query
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Creating insert query for employee: 1096
+26-Sep-26 11:51:00 AM - db_query.py - INFO - Insert query created successfully
+26-Sep-26 11:51:00 AM - main.py - DEBUG - query is insert into employee_data values(1096,'Simran Pawar',33,'Pune','IT',76246)
+26-Sep-26 11:51:00 AM - main.py - INFO - inserting into database
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Connecting to database: test
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection successful
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Executing query
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Query executed and committed successfully
+26-Sep-26 11:51:00 AM - database_connection.py - INFO - Database connection closed
+26-Sep-26 11:51:00 AM - main.py - INFO - all files inserted
