@@ -33,7 +33,7 @@ def count(filedata):
         "special_characters": specialchar,
         "lines": lines
     }
-    with open("sample_output.txt","w") as fp:
+    with open("sample_output.txt", "w") as fp:
         fp.write(str(result))
 
     return result
