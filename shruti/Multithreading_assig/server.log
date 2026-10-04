@@ -1,0 +1,75 @@
+04-Oct-26 19:13:15 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:15:12 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:17:56 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:18:14 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:20:27 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:21:17 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:22:04 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:29:12 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:29:38 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:32:08 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:32:08 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:33:05 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:35:34 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:36:10 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:36:10 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:36:16 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:36:16 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:38:14 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:38:14 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:40:01 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:40:01 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:40:55 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:40:55 - utility.dbScript - ERROR - database connection failed
+04-Oct-26 19:42:10 - utility.dbScript - ERROR - DB connection failed: 'username'
+04-Oct-26 19:44:01 - utility.dbScript - ERROR - DB connection failed: 'username'
+04-Oct-26 19:45:36 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:45:41 - utility.dbScript - INFO - 200398 records inserted into ITdept
+04-Oct-26 19:45:47 - utility.dbScript - INFO - 199512 records inserted into HRdept
+04-Oct-26 19:45:52 - utility.dbScript - INFO - 200196 records inserted into Financedept
+04-Oct-26 19:45:57 - utility.dbScript - INFO - 199781 records inserted into Salesdept
+04-Oct-26 19:46:02 - utility.dbScript - INFO - 200114 records inserted into Marketingdept
+04-Oct-26 19:46:02 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 19:52:59 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 19:53:05 - utility.dbScript - INFO - 200398 records inserted into ITdept
+04-Oct-26 19:53:11 - utility.dbScript - INFO - 199512 records inserted into HRdept
+04-Oct-26 19:53:16 - utility.dbScript - INFO - 200196 records inserted into Financedept
+04-Oct-26 19:53:22 - utility.dbScript - INFO - 199781 records inserted into Salesdept
+04-Oct-26 19:53:28 - utility.dbScript - INFO - 200114 records inserted into Marketingdept
+04-Oct-26 19:53:28 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 23:06:05 - __main__ - ERROR - seperation of deptwise data faild
+04-Oct-26 23:07:20 - __main__ - ERROR - seperation of deptwise data faild
+04-Oct-26 23:10:37 - __main__ - ERROR - seperation of deptwise data faild : cannot use 'list' as a set element (unhashable type: 'list') 
+04-Oct-26 23:11:22 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 23:11:22 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 23:11:22 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 23:11:22 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 23:11:22 - utility.dbScript - INFO - DB connection successful
+04-Oct-26 23:11:28 - utility.dbScript - INFO - 199781 records inserted into Salesdept
+04-Oct-26 23:11:28 - utility.dbScript - INFO - 200196 records inserted into Financedept
+04-Oct-26 23:11:28 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 23:11:28 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 23:11:28 - utility.dbScript - INFO - 199512 records inserted into HRdept
+04-Oct-26 23:11:28 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 23:11:28 - utility.dbScript - INFO - 200398 records inserted into ITdept
+04-Oct-26 23:11:28 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 23:11:28 - utility.dbScript - INFO - 200114 records inserted into Marketingdept
+04-Oct-26 23:11:28 - utility.dbScript - INFO - All department data inserted successfully
+04-Oct-26 23:20:34 - utility.helper - ERROR - D:\AINexusIT\Git\Offline-15-assignments-\shruti\without_threading_assig\utility\employee_1_million_records_updated.csv file not found 
+04-Oct-26 23:20:34 - utility.helper - ERROR - faild to find unique dept 
+04-Oct-26 23:20:34 - utility.helper - ERROR - data of seperation faild 
+04-Oct-26 23:20:34 - __main__ - ERROR - seperation of deptwise data faild : 'NoneType' object has no attribute 'items' 
+04-Oct-26 23:20:51 - utility.helper - ERROR - D:\AINexusIT\Git\Offline-15-assignments-\shruti\without_threading_assig\utility\employee_1_million_records_updated.csv file not found 
+04-Oct-26 23:20:51 - utility.helper - ERROR - faild to find unique dept 
+04-Oct-26 23:20:51 - utility.helper - ERROR - data of seperation faild 
+04-Oct-26 23:20:51 - __main__ - ERROR - seperation of deptwise data faild : 'NoneType' object has no attribute 'items' 
+04-Oct-26 23:24:04 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:04 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:04 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:04 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:04 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:35 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:35 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:35 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:35 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
+04-Oct-26 23:24:35 - utility.dbScript - ERROR - DB connection failed: 'Logger' object is not callable
