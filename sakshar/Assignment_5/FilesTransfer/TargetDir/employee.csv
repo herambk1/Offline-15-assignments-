@@ -1,0 +1,16 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Email,Phone,Salary,Joining_Date,Location
+EMP001,John,Smith,Engineering,Software Engineer,john.smith@example.com,9876543210,75000,2023-01-15,Pune
+EMP002,Emma,Johnson,HR,HR Manager,emma.johnson@example.com,9876543211,68000,2022-06-20,Mumbai
+EMP003,Michael,Williams,Finance,Financial Analyst,michael.williams@example.com,9876543212,62000,2023-03-10,Bangalore
+EMP004,Olivia,Brown,Marketing,Marketing Executive,olivia.brown@example.com,9876543213,55000,2024-01-08,Pune
+EMP005,James,Davis,Engineering,Senior Developer,james.davis@example.com,9876543214,90000,2021-11-25,Hyderabad
+EMP006,Sophia,Miller,Sales,Sales Executive,sophia.miller@example.com,9876543215,58000,2023-07-17,Delhi
+EMP007,William,Wilson,Engineering,QA Engineer,william.wilson@example.com,9876543216,65000,2022-09-12,Pune
+EMP008,Ava,Moore,HR,Recruiter,ava.moore@example.com,9876543217,52000,2024-02-19,Mumbai
+EMP009,Benjamin,Taylor,Finance,Accountant,benjamin.taylor@example.com,9876543218,60000,2023-05-22,Bangalore
+EMP010,Isabella,Anderson,Marketing,Marketing Manager,isabella.anderson@example.com,9876543219,72000,2021-08-30,Chennai
+EMP011,Lucas,Thomas,Sales,Sales Manager,lucas.thomas@example.com,9876543220,78000,2022-04-14,Delhi
+EMP012,Mia,Jackson,Engineering,Data Engineer,mia.jackson@example.com,9876543221,85000,2023-10-05,Hyderabad
+EMP013,Ethan,White,Finance,Finance Manager,ethan.white@example.com,9876543222,82000,2020-12-01,Pune
+EMP014,Charlotte,Harris,HR,HR Executive,charlotte.harris@example.com,9876543223,54000,2024-03-11,Bangalore
+EMP015,Alexander,Martin,Engineering,DevOps Engineer,alexander.martin@example.com,9876543224,88000,2022-12-19,Mumbai
