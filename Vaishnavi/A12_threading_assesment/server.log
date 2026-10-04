@@ -1,0 +1,84 @@
+04-Oct-26 05:54:19 PM - main - INFO - Program started
+04-Oct-26 05:54:19 PM - read_file.py - INFO - Reading file: empdata1.csv
+04-Oct-26 05:54:19 PM - read_file.py - ERROR - Error while reading file: [Errno 2] No such file or directory: 'empdata1.csv'
+04-Oct-26 05:54:19 PM - fetch_dept.py - ERROR - Error while fetching departments: 'NoneType' object is not iterable
+04-Oct-26 05:54:19 PM - read_dbConfig.py - INFO - Reading database configuration
+04-Oct-26 05:54:19 PM - read_dbConfig.py - ERROR - Error while reading database configuration: [Errno 2] No such file or directory: 'config.json'
+04-Oct-26 05:54:19 PM - DB_Connection_Thread.py - INFO - Starting department threads
+04-Oct-26 05:54:49 PM - main - INFO - Program started
+04-Oct-26 05:54:49 PM - read_file.py - INFO - Reading file: empdata1.csv
+04-Oct-26 05:54:49 PM - read_file.py - ERROR - Error while reading file: [Errno 2] No such file or directory: 'empdata1.csv'
+04-Oct-26 05:54:49 PM - fetch_dept.py - ERROR - Error while fetching departments: 'NoneType' object is not iterable
+04-Oct-26 05:54:49 PM - read_dbConfig.py - INFO - Reading database configuration
+04-Oct-26 05:54:49 PM - read_dbConfig.py - ERROR - Error while reading database configuration: [Errno 2] No such file or directory: 'config.json'
+04-Oct-26 05:54:49 PM - DB_Connection_Thread.py - INFO - Starting department threads
+04-Oct-26 05:55:30 PM - main - INFO - Program started
+04-Oct-26 05:55:30 PM - read_file.py - INFO - Reading file: empdata1.csv
+04-Oct-26 05:55:30 PM - read_file.py - ERROR - Error while reading file: [Errno 2] No such file or directory: 'empdata1.csv'
+04-Oct-26 05:55:30 PM - fetch_dept.py - ERROR - Error while fetching departments: 'NoneType' object is not iterable
+04-Oct-26 05:55:30 PM - read_dbConfig.py - INFO - Reading database configuration
+04-Oct-26 05:55:30 PM - read_dbConfig.py - INFO - Database configuration read successfully
+04-Oct-26 05:55:30 PM - DB_Connection_Thread.py - INFO - Starting department threads
+04-Oct-26 05:56:24 PM - main - INFO - Program started
+04-Oct-26 05:56:24 PM - read_file.py - INFO - Reading file: empdata1.csv
+04-Oct-26 05:56:24 PM - read_file.py - ERROR - Error while reading file: [Errno 2] No such file or directory: 'empdata1.csv'
+04-Oct-26 05:56:24 PM - fetch_dept.py - ERROR - Error while fetching departments: 'NoneType' object is not iterable
+04-Oct-26 05:56:24 PM - read_dbConfig.py - INFO - Reading database configuration
+04-Oct-26 05:56:24 PM - read_dbConfig.py - INFO - Database configuration read successfully
+04-Oct-26 05:56:24 PM - DB_Connection_Thread.py - INFO - Starting department threads
+04-Oct-26 05:58:14 PM - main - INFO - Program started
+04-Oct-26 05:58:14 PM - read_file.py - INFO - Reading file: empdata1.csv
+04-Oct-26 05:58:14 PM - read_file.py - INFO - File read successfully: empdata1.csv
+04-Oct-26 05:58:14 PM - fetch_dept.py - INFO - Unique departments fetched: ['HR', 'IT', 'Marketing', 'Finance', 'Sales', 'Operations']
+04-Oct-26 05:58:14 PM - read_dbConfig.py - INFO - Reading database configuration
+04-Oct-26 05:58:14 PM - read_dbConfig.py - INFO - Database configuration read successfully
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Starting department threads
+04-Oct-26 05:58:14 PM - DB_connection.py - INFO - Thread-1 (DB_connection) started for department: HR
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Thread-1 (DB_connection) started for department: HR
+04-Oct-26 05:58:14 PM - DB_connection.py - INFO - Thread-2 (DB_connection) started for department: IT
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Thread-2 (DB_connection) started for department: IT
+04-Oct-26 05:58:14 PM - DB_connection.py - INFO - Thread-3 (DB_connection) started for department: Marketing
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Thread-3 (DB_connection) started for department: Marketing
+04-Oct-26 05:58:14 PM - DB_connection.py - INFO - Thread-4 (DB_connection) started for department: Finance
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Thread-4 (DB_connection) started for department: Finance
+04-Oct-26 05:58:14 PM - DB_connection.py - INFO - Thread-5 (DB_connection) started for department: Sales
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Thread-5 (DB_connection) started for department: Sales
+04-Oct-26 05:58:14 PM - DB_connection.py - INFO - Thread-6 (DB_connection) started for department: Operations
+04-Oct-26 05:58:14 PM - DB_Connection_Thread.py - INFO - Thread-6 (DB_connection) started for department: Operations
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-4 (DB_connection) database connection successful
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-5 (DB_connection) database connection successful
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-5 (DB_connection) creating table: sales
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-4 (DB_connection) creating table: finance
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-3 (DB_connection) database connection successful
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-3 (DB_connection) creating table: marketing
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-2 (DB_connection) database connection successful
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-2 (DB_connection) creating table: it
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-1 (DB_connection) database connection successful
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-1 (DB_connection) creating table: hr
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-6 (DB_connection) database connection successful
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-6 (DB_connection) creating table: operations
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-5 (DB_connection) table created/exists: sales
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-1 (DB_connection) table created/exists: hr
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-5 (DB_connection) data inserted successfully into sales
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-5 (DB_connection) connection closed for sales
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-1 (DB_connection) data inserted successfully into hr
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-2 (DB_connection) table created/exists: it
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-1 (DB_connection) connection closed for hr
+04-Oct-26 05:58:15 PM - DB_Connection_Thread.py - INFO - Thread-1 (DB_connection) completed
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-2 (DB_connection) data inserted successfully into it
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-2 (DB_connection) connection closed for it
+04-Oct-26 05:58:15 PM - DB_Connection_Thread.py - INFO - Thread-2 (DB_connection) completed
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-3 (DB_connection) table created/exists: marketing
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-4 (DB_connection) table created/exists: finance
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-3 (DB_connection) data inserted successfully into marketing
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-3 (DB_connection) connection closed for marketing
+04-Oct-26 05:58:15 PM - DB_Connection_Thread.py - INFO - Thread-3 (DB_connection) completed
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-6 (DB_connection) table created/exists: operations
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-4 (DB_connection) data inserted successfully into finance
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-4 (DB_connection) connection closed for finance
+04-Oct-26 05:58:15 PM - DB_Connection_Thread.py - INFO - Thread-4 (DB_connection) completed
+04-Oct-26 05:58:15 PM - DB_Connection_Thread.py - INFO - Thread-5 (DB_connection) completed
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-6 (DB_connection) data inserted successfully into operations
+04-Oct-26 05:58:15 PM - DB_connection.py - INFO - Thread-6 (DB_connection) connection closed for operations
+04-Oct-26 05:58:15 PM - DB_Connection_Thread.py - INFO - Thread-6 (DB_connection) completed
+04-Oct-26 05:58:15 PM - main - INFO - Program completed. Total Time: 0.3094632625579834
