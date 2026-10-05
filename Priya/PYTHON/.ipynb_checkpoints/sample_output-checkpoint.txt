@@ -1,0 +1,5 @@
+Char : 18
+Words : 4
+SpecialCharacters : 1
+Lines : 1
+Numbers : 0

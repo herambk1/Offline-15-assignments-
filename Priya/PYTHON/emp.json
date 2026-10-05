@@ -1,0 +1,420 @@
+[
+    {
+        "id": 1,
+        "firstName": "Aarav",
+        "lastName": "Sharma",
+        "age": 28,
+        "gender": "male",
+        "email": "aarav.sharma@example.com",
+        "department": "IT",
+        "salary": 72000,
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel"
+        ],
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": "411001"
+        }
+    },
+    {
+        "id": 2,
+        "firstName": "Priya",
+        "lastName": "Patil",
+        "age": 31,
+        "gender": "female",
+        "email": "priya.patil@example.com",
+        "department": "Finance",
+        "salary": 68000,
+        "skills": [
+            "Excel",
+            "Power BI"
+        ],
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pincode": "400001"
+        },
+        "married": true
+    },
+    {
+        "id": 3,
+        "firstName": "Rohan",
+        "lastName": "Deshmukh",
+        "age": 35,
+        "gender": "male",
+        "email": "rohan.deshmukh@example.com",
+        "department": "HR",
+        "salary": 65000,
+        "skills": [
+            "Recruitment",
+            "Communication"
+        ],
+        "address": {
+            "city": "Nashik",
+            "state": "Maharashtra",
+            "pincode": "422001"
+        },
+        "experience": 10
+    },
+    {
+        "id": 4,
+        "firstName": "Sneha",
+        "lastName": "Kulkarni",
+        "age": 27,
+        "gender": "female",
+        "email": "sneha.kulkarni@example.com",
+        "department": "Marketing",
+        "salary": 59000,
+        "skills": [
+            "SEO",
+            "Digital Marketing"
+        ],
+        "address": {
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "pincode": "440001"
+        },
+        "phone": "9876543210"
+    },
+    {
+        "id": 5,
+        "firstName": "Vikram",
+        "lastName": "Joshi",
+        "age": 42,
+        "gender": "male",
+        "email": "vikram.joshi@example.com",
+        "department": "Operations",
+        "salary": 85000,
+        "skills": [
+            "Management",
+            "Logistics"
+        ],
+        "address": {
+            "city": "Bengaluru",
+            "state": "Karnataka",
+            "pincode": "560001"
+        },
+        "manager": "Rajesh Mehta"
+    },
+    {
+        "id": 6,
+        "firstName": "Ananya",
+        "lastName": "Iyer",
+        "age": 25,
+        "gender": "female",
+        "email": "ananya.iyer@example.com",
+        "department": "IT",
+        "salary": 61000,
+        "skills": [
+            "Java",
+            "Python",
+            "SQL"
+        ],
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pincode": "600001"
+        },
+        "remote": true
+    },
+    {
+        "id": 7,
+        "firstName": "Rahul",
+        "lastName": "Verma",
+        "age": 33,
+        "gender": "male",
+        "email": "rahul.verma@example.com",
+        "department": "Sales",
+        "salary": 70000,
+        "skills": [
+            "Sales",
+            "CRM"
+        ],
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "pincode": "110001"
+        },
+        "target": 1500000
+    },
+    {
+        "id": 8,
+        "firstName": "Kavya",
+        "lastName": "Nair",
+        "age": 29,
+        "gender": "female",
+        "email": "kavya.nair@example.com",
+        "department": "Data Analytics",
+        "salary": 78000,
+        "skills": [
+            "Python",
+            "Power BI",
+            "SQL"
+        ],
+        "address": {
+            "city": "Kochi",
+            "state": "Kerala",
+            "pincode": "682001"
+        },
+        "certifications": [
+            "PL-300",
+            "Google Data Analytics"
+        ]
+    },
+    {
+        "id": 9,
+        "firstName": "Aditya",
+        "lastName": "Gupta",
+        "age": 38,
+        "gender": "male",
+        "email": "aditya.gupta@example.com",
+        "department": "IT",
+        "salary": 92000,
+        "skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "pincode": "500001"
+        },
+        "experience": 14
+    },
+    {
+        "id": 10,
+        "firstName": "Neha",
+        "lastName": "Singh",
+        "age": 30,
+        "gender": "female",
+        "email": "neha.singh@example.com",
+        "department": "Customer Support",
+        "salary": 54000,
+        "skills": [
+            "Communication",
+            "Customer Service"
+        ],
+        "address": {
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "pincode": "302001"
+        },
+        "shift": "Morning"
+    },
+    {
+        "id": 11,
+        "firstName": "Siddharth",
+        "lastName": "Bhosale",
+        "age": 36,
+        "gender": "male",
+        "email": "siddharth.bhosale@example.com",
+        "department": "Finance",
+        "salary": 81000,
+        "skills": [
+            "Accounting",
+            "Excel",
+            "SAP"
+        ],
+        "address": {
+            "city": "Aurangabad",
+            "state": "Maharashtra",
+            "pincode": "431001"
+        },
+        "married": true
+    },
+    {
+        "id": 12,
+        "firstName": "Meera",
+        "lastName": "Reddy",
+        "age": 26,
+        "gender": "female",
+        "email": "meera.reddy@example.com",
+        "department": "Design",
+        "salary": 63000,
+        "skills": [
+            "Figma",
+            "UI Design"
+        ],
+        "address": {
+            "city": "Vijayawada",
+            "state": "Andhra Pradesh",
+            "pincode": "520001"
+        },
+        "portfolio": "meera-design"
+    },
+    {
+        "id": 13,
+        "firstName": "Kunal",
+        "lastName": "Shinde",
+        "age": 41,
+        "gender": "male",
+        "email": "kunal.shinde@example.com",
+        "department": "Management",
+        "salary": 105000,
+        "skills": [
+            "Leadership",
+            "Strategy"
+        ],
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pincode": "411014"
+        },
+        "companyCar": true
+    },
+    {
+        "id": 14,
+        "firstName": "Pooja",
+        "lastName": "Jadhav",
+        "age": 32,
+        "gender": "female",
+        "email": "pooja.jadhav@example.com",
+        "department": "Operations",
+        "salary": 67000,
+        "skills": [
+            "Operations",
+            "Excel"
+        ],
+        "address": {
+            "city": "Kolhapur",
+            "state": "Maharashtra",
+            "pincode": "416001"
+        },
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ]
+    },
+    {
+        "id": 15,
+        "firstName": "Manish",
+        "lastName": "Mehta",
+        "age": 39,
+        "gender": "male",
+        "email": "manish.mehta@example.com",
+        "department": "Sales",
+        "salary": 76000,
+        "skills": [
+            "Sales",
+            "Negotiation"
+        ],
+        "address": {
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "pincode": "380001"
+        },
+        "target": 2000000
+    },
+    {
+        "id": 16,
+        "firstName": "Isha",
+        "lastName": "Malhotra",
+        "age": 24,
+        "gender": "female",
+        "email": "isha.malhotra@example.com",
+        "department": "IT",
+        "salary": 58000,
+        "skills": [
+            "Python",
+            "Django"
+        ],
+        "address": {
+            "city": "Gurugram",
+            "state": "Haryana",
+            "pincode": "122001"
+        },
+        "intern": true
+    },
+    {
+        "id": 17,
+        "firstName": "Akash",
+        "lastName": "Pawar",
+        "age": 34,
+        "gender": "male",
+        "email": "akash.pawar@example.com",
+        "department": "Data Analytics",
+        "salary": 74000,
+        "skills": [
+            "SQL",
+            "Power BI",
+            "Excel"
+        ],
+        "address": {
+            "city": "Solapur",
+            "state": "Maharashtra",
+            "pincode": "413001"
+        },
+        "experience": 8
+    },
+    {
+        "id": 18,
+        "firstName": "Riya",
+        "lastName": "Chavan",
+        "age": 28,
+        "gender": "female",
+        "email": "riya.chavan@example.com",
+        "department": "HR",
+        "salary": 62000,
+        "skills": [
+            "Recruitment",
+            "HR Analytics"
+        ],
+        "address": {
+            "city": "Satara",
+            "state": "Maharashtra",
+            "pincode": "415001"
+        },
+        "remote": false
+    },
+    {
+        "id": 19,
+        "firstName": "Nikhil",
+        "lastName": "Agarwal",
+        "age": 37,
+        "gender": "male",
+        "email": "nikhil.agarwal@example.com",
+        "department": "Finance",
+        "salary": 88000,
+        "skills": [
+            "Accounting",
+            "Taxation"
+        ],
+        "address": {
+            "city": "Surat",
+            "state": "Gujarat",
+            "pincode": "395001"
+        },
+        "certifications": [
+            "CA"
+        ]
+    },
+    {
+        "id": 20,
+        "firstName": "Tanvi",
+        "lastName": "Desai",
+        "age": 29,
+        "gender": "female",
+        "email": "tanvi.desai@example.com",
+        "department": "Marketing",
+        "salary": 66000,
+        "skills": [
+            "Content Writing",
+            "Social Media"
+        ],
+        "address": {
+            "city": "Goa",
+            "state": "Goa",
+            "pincode": "403001"
+        },
+        "languages": [
+            "English",
+            "Hindi",
+            "Marathi"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+# employee_records.yaml
+company: TechCorp Global
+department: Engineering
+
+employees:
+  - id: "EMP001"
+    name: "Jane Doe"
+    role: "Senior Software Engineer"
+    email: "jane.doe@techcorp.com"
+    skills:
+      - Python
+      - Kubernetes
+      - Cloud Architecture
+    status: "Active"
+
+  - id: "EMP002"
+    name: "John Smith"
+    role: "DevOps Specialist"
+    email: "john.smith@techcorp.com"
+    skills:
+      - AWS
+      - Docker
+      - Terraform
+    status: "On Leave"
+

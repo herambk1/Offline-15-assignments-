@@ -1,0 +1,12 @@
+import csv
+import pymysql
+conn = pymysql.connect(host='localhost',port=3306,user='root',password='root',database='offline15')
+cur = conn.cursor()
+with open(r"C:\Users\Admin\Desktop\csvfolder\empsal_part_buck.csv")as fp:
+    r = csv.reader(fp)
+    for row in r:
+        query ="insert into emp values({},{},{})".format(row['empid'],row['empname'],row['city'])
+        cur.execute(query)
+        conn.commit()
+
+conn.close()
