@@ -1,0 +1,17 @@
+28-09-2026 12:51:44 PM - __main__ - INFO - Source folder: C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source
+28-09-2026 12:51:44 PM - __main__ - INFO - Destination folder: C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination
+28-09-2026 12:51:44 PM - file_organizer - INFO - Created folder: C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\csv
+28-09-2026 12:51:44 PM - file_organizer - INFO - Created folder: C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\pdf
+28-09-2026 12:51:44 PM - file_organizer - INFO - Created folder: C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\json
+28-09-2026 12:51:44 PM - file_organizer - INFO - Created folder: C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\yaml
+28-09-2026 12:51:44 PM - file_organizer - INFO - File skipped because extension is not supported: Day 2.1_Filter_PastSp.xlsx
+28-09-2026 12:51:44 PM - file_organizer - INFO - File skipped because extension is not supported: Day 4.3_Consolidate.xlsx
+28-09-2026 12:51:44 PM - file_organizer - INFO - File skipped because extension is not supported: Day 6.3_DataValidation.xlsx
+28-09-2026 12:51:44 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\emp.json to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\json\emp.json
+28-09-2026 12:51:44 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\emp3.json to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\json\emp3.json
+28-09-2026 12:51:44 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\empsal_part_buck.csv to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\csv\empsal_part_buck.csv
+28-09-2026 12:51:45 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\ETL_NotesN (2) (1).pdf to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\pdf\ETL_NotesN (2) (1).pdf
+28-09-2026 12:51:46 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\ETL_NotesN (2).pdf to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\pdf\ETL_NotesN (2).pdf
+28-09-2026 12:51:46 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\Excel basic notes.pdf to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\pdf\Excel basic notes.pdf
+28-09-2026 12:51:46 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\Finance_records.csv to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\csv\Finance_records.csv
+28-09-2026 12:51:46 PM - file_organizer - INFO - File moved from C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\source\student.json to C:\Users\VISHAKHA MANE\PycharmProjects\Assignment_no_9\destination\json\student.json
