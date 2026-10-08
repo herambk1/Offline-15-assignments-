@@ -1,0 +1,140 @@
+students:
+  - student_id: 101
+    name: Amit Sharma
+    age: 21
+    city: Pune
+    course: Python
+    marks: 85
+
+  - student_id: 102
+    name: Priya Patil
+    age: 22
+    city: Mumbai
+    course: Data Science
+    marks: 91
+
+  - student_id: 103
+    name: Rahul Kulkarni
+    age: 20
+    city: Pune
+    course: SQL
+    marks: 78
+
+  - student_id: 104
+    name: Sneha Joshi
+    age: 21
+    city: Nashik
+    course: Python
+    marks: 88
+
+  - student_id: 105
+    name: Akash Deshmukh
+    age: 23
+    city: Kolhapur
+    course: Data Engineering
+    marks: 82
+
+  - student_id: 106
+    name: Neha Shah
+    age: 20
+    city: Mumbai
+    course: Machine Learning
+    marks: 94
+
+  - student_id: 107
+    name: Rohit Patil
+    age: 22
+    city: Pune
+    course: SQL
+    marks: 76
+
+  - student_id: 108
+    name: Pooja More
+    age: 21
+    city: Sangli
+    course: Python
+    marks: 89
+
+  - student_id: 109
+    name: Vikas Jadhav
+    age: 24
+    city: Satara
+    course: Data Science
+    marks: 72
+
+  - student_id: 110
+    name: Kiran Pawar
+    age: 22
+    city: Pune
+    course: Power BI
+    marks: 86
+
+  - student_id: 111
+    name: Anjali Desai
+    age: 20
+    city: Mumbai
+    course: Python
+    marks: 93
+
+  - student_id: 112
+    name: Sachin Chavan
+    age: 23
+    city: Sangli
+    course: SQL
+    marks: 81
+
+  - student_id: 113
+    name: Meena Shinde
+    age: 21
+    city: Kolhapur
+    course: Data Science
+    marks: 87
+
+  - student_id: 114
+    name: Omkar Mane
+    age: 22
+    city: Pune
+    course: Machine Learning
+    marks: 79
+
+  - student_id: 115
+    name: Riya Kadam
+    age: 20
+    city: Nashik
+    course: Python
+    marks: 95
+
+  - student_id: 116
+    name: Aditya Pawar
+    age: 23
+    city: Satara
+    course: Data Engineering
+    marks: 84
+
+  - student_id: 117
+    name: Komal Patil
+    age: 21
+    city: Sangli
+    course: Power BI
+    marks: 90
+
+  - student_id: 118
+    name: Tejas More
+    age: 22
+    city: Mumbai
+    course: SQL
+    marks: 74
+
+  - student_id: 119
+    name: Shweta Jadhav
+    age: 20
+    city: Pune
+    course: Data Science
+    marks: 92
+
+  - student_id: 120
+    name: Harsh Kulkarni
+    age: 24
+    city: Kolhapur
+    course: Machine Learning
+    marks: 80

@@ -1,0 +1,162 @@
+[
+  {
+    "emp_id": 101,
+    "name": "Amit Sharma",
+    "age": 25,
+    "city": "Pune",
+    "department": "IT",
+    "salary": 55000
+  },
+  {
+    "emp_id": 102,
+    "name": "Priya Patil",
+    "age": 28,
+    "city": "Mumbai",
+    "department": "HR",
+    "salary": 60000
+  },
+  {
+    "emp_id": 103,
+    "name": "Rahul Kulkarni",
+    "age": 30,
+    "city": "Pune",
+    "department": "IT",
+    "salary": 75000
+  },
+  {
+    "emp_id": 104,
+    "name": "Sneha Joshi",
+    "age": 26,
+    "city": "Nashik",
+    "department": "Finance",
+    "salary": 65000
+  },
+  {
+    "emp_id": 105,
+    "name": "Akash Deshmukh",
+    "age": 32,
+    "city": "Kolhapur",
+    "department": "IT",
+    "salary": 85000
+  },
+  {
+    "emp_id": 106,
+    "name": "Neha Shah",
+    "age": 27,
+    "city": "Mumbai",
+    "department": "Marketing",
+    "salary": 58000
+  },
+  {
+    "emp_id": 107,
+    "name": "Rohit Patil",
+    "age": 29,
+    "city": "Pune",
+    "department": "Finance",
+    "salary": 70000
+  },
+  {
+    "emp_id": 108,
+    "name": "Pooja More",
+    "age": 24,
+    "city": "Sangli",
+    "department": "HR",
+    "salary": 52000
+  },
+  {
+    "emp_id": 109,
+    "name": "Vikas Jadhav",
+    "age": 35,
+    "city": "Satara",
+    "department": "IT",
+    "salary": 95000
+  },
+  {
+    "emp_id": 110,
+    "name": "Kiran Pawar",
+    "age": 31,
+    "city": "Pune",
+    "department": "Marketing",
+    "salary": 72000
+  },
+  {
+    "emp_id": 111,
+    "name": "Anjali Desai",
+    "age": 26,
+    "city": "Mumbai",
+    "department": "IT",
+    "salary": 68000
+  },
+  {
+    "emp_id": 112,
+    "name": "Sachin Chavan",
+    "age": 33,
+    "city": "Sangli",
+    "department": "Finance",
+    "salary": 77000
+  },
+  {
+    "emp_id": 113,
+    "name": "Meena Shinde",
+    "age": 29,
+    "city": "Kolhapur",
+    "department": "HR",
+    "salary": 59000
+  },
+  {
+    "emp_id": 114,
+    "name": "Omkar Mane",
+    "age": 27,
+    "city": "Pune",
+    "department": "IT",
+    "salary": 81000
+  },
+  {
+    "emp_id": 115,
+    "name": "Riya Kadam",
+    "age": 25,
+    "city": "Nashik",
+    "department": "Marketing",
+    "salary": 62000
+  },
+  {
+    "emp_id": 116,
+    "name": "Aditya Pawar",
+    "age": 34,
+    "city": "Satara",
+    "department": "Finance",
+    "salary": 88000
+  },
+  {
+    "emp_id": 117,
+    "name": "Komal Patil",
+    "age": 28,
+    "city": "Sangli",
+    "department": "Marketing",
+    "salary": 66000
+  },
+  {
+    "emp_id": 118,
+    "name": "Tejas More",
+    "age": 30,
+    "city": "Mumbai",
+    "department": "IT",
+    "salary": 79000
+  },
+  {
+    "emp_id": 119,
+    "name": "Shweta Jadhav",
+    "age": 26,
+    "city": "Pune",
+    "department": "HR",
+    "salary": 57000
+  },
+  {
+    "emp_id": 120,
+    "name": "Harsh Kulkarni",
+    "age": 36,
+    "city": "Kolhapur",
+    "department": "IT",
+    "salary": 98000
+  }
+]

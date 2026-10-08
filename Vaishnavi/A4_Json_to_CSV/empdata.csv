@@ -1,0 +1,21 @@
+emp_id,name,age,city,department,salary
+101,Amit Sharma,25,Pune,IT,55000
+102,Priya Patil,28,Mumbai,HR,60000
+103,Rahul Kulkarni,30,Pune,IT,75000
+104,Sneha Joshi,26,Nashik,Finance,65000
+105,Akash Deshmukh,32,Kolhapur,IT,85000
+106,Neha Shah,27,Mumbai,Marketing,58000
+107,Rohit Patil,29,Pune,Finance,70000
+108,Pooja More,24,Sangli,HR,52000
+109,Vikas Jadhav,35,Satara,IT,95000
+110,Kiran Pawar,31,Pune,Marketing,72000
+111,Anjali Desai,26,Mumbai,IT,68000
+112,Sachin Chavan,33,Sangli,Finance,77000
+113,Meena Shinde,29,Kolhapur,HR,59000
+114,Omkar Mane,27,Pune,IT,81000
+115,Riya Kadam,25,Nashik,Marketing,62000
+116,Aditya Pawar,34,Satara,Finance,88000
+117,Komal Patil,28,Sangli,Marketing,66000
+118,Tejas More,30,Mumbai,IT,79000
+119,Shweta Jadhav,26,Pune,HR,57000
+120,Harsh Kulkarni,36,Kolhapur,IT,98000
