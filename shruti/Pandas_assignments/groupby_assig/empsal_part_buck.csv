@@ -1,0 +1,101 @@
+empid,empname,city,sal,age,dob,dept
+E001,John Adams,New York,73400,29,1996-08-12,Finance
+E002,Sarah Miller,Los Angeles,81200,34,1991-04-23,HR
+E003,Michael Brown,Chicago,65400,41,1984-02-11,Engineering
+E004,Emily Davis,Houston,58900,27,1998-06-04,Marketing
+E005,Daniel Wilson,Phoenix,91300,45,1980-09-19,IT
+E006,Ashley Johnson,Philadelphia,70200,31,1994-12-05,Sales
+E007,Matthew Lee,San Antonio,62300,26,1999-03-14,Engineering
+E008,Amanda Taylor,San Diego,84500,38,1987-05-22,Finance
+E009,Ryan Harris,Dallas,57700,25,2000-11-09,HR
+E010,Olivia Martin,San Jose,66800,33,1992-07-30,IT
+E011,Ethan Clark,Austin,73900,36,1989-10-28,Marketing
+E012,Grace Lewis,Jacksonville,82100,40,1985-01-16,Sales
+E013,Jacob Young,Fort Worth,69300,28,1997-04-02,Engineering
+E014,Victoria Hall,Columbus,55900,24,2001-02-08,Finance
+E015,Noah King,Charlotte,90400,42,1983-06-19,IT
+E016,Chloe Wright,San Francisco,77200,30,1995-09-03,Marketing
+E017,Lucas Scott,Indianapolis,61300,27,1998-12-14,HR
+E018,Natalie Green,Seattle,88700,39,1986-03-21,Engineering
+E019,Andrew Adams,Denver,54400,23,2002-01-11,Sales
+E020,Sofia Baker,Washington,76600,34,1991-08-29,Finance
+E021,Henry Rivera,Boston,71800,32,1993-05-10,Engineering
+E022,Lily Gonzalez,El Paso,69200,31,1994-04-27,IT
+E023,Christopher Nelson,Detroit,81900,43,1982-09-24,Marketing
+E024,Aria Carter,Nashville,57800,26,1999-02-05,Finance
+E025,Isaac Mitchell,Memphis,64500,29,1996-10-17,HR
+E026,Zoe Perez,Portland,90200,37,1988-03-30,Sales
+E027,Elijah Roberts,Oklahoma City,61100,28,1997-12-22,Engineering
+E028,Hannah Turner,Las Vegas,84700,35,1990-11-25,IT
+E029,Jack Phillips,Louisville,56900,25,2000-06-15,Marketing
+E030,Nora Campbell,Baltimore,75600,33,1992-09-20,Finance
+E031,William Parker,Milwaukee,69300,30,1995-03-28,Sales
+E032,Riley Evans,Albuquerque,88500,41,1984-08-02,HR
+E033,Logan Edwards,Tucson,65200,27,1998-05-14,Engineering
+E034,Penelope Collins,Fresno,91200,38,1987-12-09,IT
+E035,Jayden Stewart,Sacramento,57400,24,2001-01-22,Marketing
+E036,Layla Sanchez,Kansas City,79800,36,1989-06-10,Finance
+E037,David Morris,Atlanta,83300,39,1986-03-03,Engineering
+E038,Audrey Rogers,Omaha,62100,26,1999-09-27,HR
+E039,Joseph Reed,Colorado Springs,70700,28,1997-02-19,IT
+E040,Scarlett Cook,Raleigh,56200,23,2002-05-11,Sales
+E041,Samuel Morgan,Miami,74300,35,1990-10-04,Marketing
+E042,Victoria Bell,Virginia Beach,86700,40,1985-04-06,Finance
+E043,James Murphy,Oakland,79900,37,1988-01-25,Engineering
+E044,Eleanor Bailey,Minneapolis,58300,27,1998-11-07,HR
+E045,Anthony Rivera,Tulsa,90200,42,1983-07-15,IT
+E046,Stella Cooper,Arlington,65500,29,1996-12-13,Sales
+E047,Benjamin Richardson,New Orleans,71200,31,1994-08-18,Finance
+E048,Lucy Cox,Wichita,59800,25,2000-03-10,Marketing
+E049,Mason Howard,Tampa,68800,32,1993-09-08,Engineering
+E050,Claire Ward,Cleveland,75400,34,1991-06-01,HR
+E051,Leo Torres,Anaheim,80400,36,1989-04-17,IT
+E052,Hailey Peterson,Aurora,62400,27,1998-07-14,Finance
+E053,Wyatt Gray,Honolulu,91500,45,1980-05-20,Sales
+E054,Sadie Ramirez,Santa Ana,53200,23,2002-10-06,Marketing
+E055,Julian James,Riverside,74900,33,1992-11-19,Engineering
+E056,Maya Watson,Corpus Christi,68900,30,1995-01-31,HR
+E057,Grayson Brooks,Irvine,85700,38,1987-02-28,IT
+E058,Ellie Kelly,Stockton,57900,24,2001-09-04,Finance
+E059,Oliver Sanders,Cincinnati,62300,28,1997-05-06,Marketing
+E060,Addison Price,St. Louis,78900,35,1990-02-14,Engineering
+E061,Adam Bennett,Pittsburgh,71200,32,1993-11-03,Sales
+E062,Arianna Wood,Lexington,56300,25,2000-01-25,Finance
+E063,Jonathan Barnes,Anchorage,87700,39,1986-06-22,IT
+E064,Naomi Ross,Plano,64600,26,1999-10-15,HR
+E065,Thomas Henderson,Lincoln,77300,30,1995-03-17,Engineering
+E066,Elena Coleman,Orlando,85400,37,1988-07-13,Marketing
+E067,Owen Jenkins,Durham,69500,29,1996-02-09,Sales
+E068,Ruby Perry,Jersey City,58100,24,2001-11-29,Finance
+E069,Charles Powell,Chula Vista,83200,35,1990-05-25,IT
+E070,Piper Long,Fort Wayne,60300,27,1998-04-12,HR
+E071,Caleb Patterson,St. Paul,74400,33,1992-08-02,Engineering
+E072,Savannah Hughes,Toledo,56600,23,2002-07-19,Marketing
+E073,Aaron Flores,Newark,69800,31,1994-12-21,Finance
+E074,Brooklyn Bryant,Henderson,91700,41,1984-03-29,Engineering
+E075,Isaiah Fisher,Greensboro,63900,28,1997-06-16,Sales
+E076,Anna Hamilton,Lincoln,58200,25,2000-09-13,HR
+E077,Nolan Graham,Buffalo,72400,32,1993-02-02,IT
+E078,Allison Sullivan,Chandler,80300,34,1991-10-30,Marketing
+E079,Connor Wallace,Reno,64700,26,1999-08-28,Finance
+E080,Aaliyah West,Laredo,89700,38,1987-09-07,Engineering
+E081,Dylan Cole,Madison,71300,29,1996-04-26,Sales
+E082,Julia Stone,Lubbock,55900,24,2001-12-03,HR
+E083,Christian Warren,Garland,86100,40,1985-03-05,IT
+E084,Violet Bishop,Glendale,61200,27,1998-10-20,Finance
+E085,Adrian Patterson,Hialeah,71800,31,1994-05-12,Engineering
+E086,Clara Morales,Baton Rouge,59100,26,1999-01-09,Marketing
+E087,Evan Watts,Chesapeake,77400,30,1995-02-18,Sales
+E088,Lucy Fitzgerald,Scottsdale,82100,36,1989-12-28,Finance
+E089,Gabriel Bryant,North Las Vegas,90400,42,1983-11-06,IT
+E090,Stella Newman,Fremont,55300,23,2002-03-23,HR
+E091,Carter Lowe,Irving,68300,28,1997-09-19,Engineering
+E092,Lydia Fleming,Boise,76900,33,1992-07-01,Marketing
+E093,Brayden Holt,Birmingham,60200,27,1998-11-26,Finance
+E094,Bella Barber,Spokane,64800,29,1996-08-05,Sales
+E095,Jordan Stevenson,Richmond,83400,37,1988-02-14,IT
+E096,Elise Hardy,Des Moines,58300,24,2001-05-30,HR
+E097,Camden Bush,Modesto,72800,32,1993-04-03,Engineering
+E098,Madeline Abbott,Fayetteville,75600,34,1991-01-28,Marketing
+E099,Robert Drake,Shreveport,69100,30,1995-06-09,Finance
+E100,Aurora Briggs,Akron,82300,38,1987-10-01,IT
