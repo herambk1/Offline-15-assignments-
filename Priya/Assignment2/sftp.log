@@ -1,0 +1,42 @@
+2026-10-01 08:37:06,784 - INFO - Program started
+2026-10-01 08:37:07,257 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-10-01 08:37:08,456 - INFO - Authentication (password) successful!
+2026-10-01 08:37:09,099 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-10-01 08:37:10,328 - INFO - [chan 0] sftp session closed.
+2026-10-01 08:37:10,340 - INFO - File downloaded
+2026-10-01 08:37:10,511 - INFO - Data inserted
+2026-10-01 08:38:19,121 - INFO - Program started
+2026-10-01 08:38:19,548 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-10-01 08:38:20,636 - INFO - Authentication (password) successful!
+2026-10-01 08:38:21,190 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-10-01 08:38:22,315 - INFO - [chan 0] sftp session closed.
+2026-10-01 08:38:22,315 - INFO - File downloaded
+2026-10-01 08:38:22,364 - INFO - Data inserted
+2026-10-01 10:55:43,353 - INFO - Program started
+2026-10-01 10:55:43,835 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-10-01 10:55:44,912 - INFO - Authentication (password) successful!
+2026-10-01 10:55:45,372 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-10-01 10:55:51,745 - INFO - [chan 0] sftp session closed.
+2026-10-01 10:55:51,756 - INFO - File downloaded
+2026-10-01 10:55:51,855 - INFO - Data inserted
+2026-10-01 10:56:47,599 - INFO - Program started
+2026-10-01 10:56:48,047 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-10-01 10:56:49,125 - INFO - Authentication (password) successful!
+2026-10-01 10:56:49,682 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-10-01 10:56:56,845 - INFO - [chan 0] sftp session closed.
+2026-10-01 10:56:56,846 - INFO - File downloaded
+2026-10-01 10:56:56,893 - INFO - Data inserted
+2026-10-01 11:01:23,583 - INFO - Program started
+2026-10-01 11:01:24,007 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-10-01 11:01:25,067 - INFO - Authentication (password) successful!
+2026-10-01 11:01:25,875 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-10-01 11:01:33,028 - INFO - [chan 0] sftp session closed.
+2026-10-01 11:01:33,030 - INFO - File downloaded
+2026-10-01 11:01:33,114 - INFO - Data inserted
+2026-10-01 11:03:59,422 - INFO - Program started
+2026-10-01 11:03:59,857 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-10-01 11:04:00,881 - INFO - Authentication (password) successful!
+2026-10-01 11:04:01,395 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-10-01 11:04:08,179 - INFO - [chan 0] sftp session closed.
+2026-10-01 11:04:08,180 - INFO - File downloaded
+2026-10-01 11:04:08,243 - INFO - Data inserted

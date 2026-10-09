@@ -1,0 +1,40 @@
+
+  - id: 1
+    name: Rahul
+    city: Nashik
+
+  - id: 2
+    name: Priya
+    city: Pune
+
+  - id: 3
+    name: Amit
+    city: Mumbai
+
+  - id: 4
+    name: Sneha
+    city: Delhi
+
+  - id: 5
+    name: Akash
+    city: Nagpur
+
+  - id: 6
+    name: Neha
+    city: Aurangabad
+
+  - id: 7
+    name: Rohit
+    city: Thane
+
+  - id: 8
+    name: Pooja
+    city: Kolhapur
+
+  - id: 9
+    name: Karan
+    city: Surat
+
+  - id: 10
+    name: Anjali
+    city: Bengaluru

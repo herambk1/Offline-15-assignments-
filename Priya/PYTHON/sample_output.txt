@@ -1,0 +1,5 @@
+Char : 327
+Words : 33
+SpecialCharacters : 27
+Lines : 8
+Numbers : 74
