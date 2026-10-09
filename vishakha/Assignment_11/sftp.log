@@ -1,0 +1,14 @@
+2026-09-30 21:22:56,612 - INFO - Program started
+2026-09-30 21:22:57,206 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-09-30 21:22:58,440 - INFO - Authentication (password) successful!
+2026-09-30 21:22:59,103 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-09-30 21:23:00,156 - INFO - [chan 0] sftp session closed.
+2026-09-30 21:23:00,157 - INFO - File downloaded
+2026-09-30 21:23:00,276 - ERROR - Error: 'id'
+2026-09-30 21:28:24,348 - INFO - Program started
+2026-09-30 21:28:24,839 - INFO - Connected (version 2.0, client SSH-2.0-SFTPCloud.io)
+2026-09-30 21:28:26,183 - INFO - Authentication (password) successful!
+2026-09-30 21:28:26,929 - INFO - [chan 0] Opened sftp connection (server version 3)
+2026-09-30 21:28:28,162 - INFO - [chan 0] sftp session closed.
+2026-09-30 21:28:28,163 - INFO - File downloaded
+2026-09-30 21:28:28,281 - INFO - Data inserted
