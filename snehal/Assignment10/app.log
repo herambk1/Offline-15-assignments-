@@ -1,0 +1,13 @@
+2026-09-29 15:17:40,919 - INFO - Assignment started
+2026-09-29 15:17:40,921 - INFO - Total records read: 50
+2026-09-29 15:17:41,116 - ERROR - Database connection failed
+2026-09-29 15:17:41,116 - INFO - Assignment completed
+2026-09-29 15:20:20,908 - INFO - Assignment started
+2026-09-29 15:20:20,909 - INFO - Total records read: 50
+2026-09-29 15:20:20,945 - ERROR - Database connection failed
+2026-09-29 15:20:20,945 - INFO - Assignment completed
+2026-09-29 15:21:56,044 - INFO - Assignment started
+2026-09-29 15:21:56,045 - INFO - Total records read: 50
+2026-09-29 15:21:56,178 - ERROR - Data insertion error: not all arguments converted during string formatting
+2026-09-29 15:21:56,178 - INFO - MySQL connection closed
+2026-09-29 15:21:56,179 - INFO - Assignment completed

@@ -1,0 +1,66 @@
+04-10-2026 10:40:11 - root - INFO - Assignment 12 started - Without Threading
+04-10-2026 10:40:16 - root - INFO - CSV file read successfully
+04-10-2026 10:40:17 - root - INFO - Data separated department wise
+04-10-2026 10:40:17 - root - INFO - MySQL connected successfully
+04-10-2026 10:40:17 - root - INFO - Table created successfully: marketing
+04-10-2026 10:40:48 - root - INFO - Data inserted successfully into marketing
+04-10-2026 10:40:48 - root - INFO - Table created successfully: operations
+04-10-2026 10:41:23 - root - INFO - Data inserted successfully into operations
+04-10-2026 10:41:23 - root - INFO - Table created successfully: sales
+04-10-2026 10:41:56 - root - INFO - Data inserted successfully into sales
+04-10-2026 10:41:56 - root - INFO - Table created successfully: finance
+04-10-2026 10:42:32 - root - INFO - Data inserted successfully into finance
+04-10-2026 10:42:32 - root - INFO - Table created successfully: hr
+04-10-2026 10:43:01 - root - INFO - Data inserted successfully into hr
+04-10-2026 10:43:01 - root - INFO - Table created successfully: admin
+04-10-2026 10:43:37 - root - INFO - Data inserted successfully into admin
+04-10-2026 10:43:37 - root - INFO - Table created successfully: it
+04-10-2026 10:44:12 - root - INFO - Data inserted successfully into it
+04-10-2026 10:44:12 - root - INFO - Table created successfully: support
+04-10-2026 10:44:46 - root - INFO - Data inserted successfully into support
+04-10-2026 10:44:46 - root - INFO - Time required: 274.5177502632141 seconds
+04-10-2026 10:44:46 - root - INFO - Assignment 12 completed
+04-10-2026 10:52:33 - root - INFO - Assignment 12 started - Without Threading
+04-10-2026 10:52:36 - root - INFO - CSV file read successfully
+04-10-2026 10:52:37 - root - INFO - Data separated department wise
+04-10-2026 10:52:37 - root - INFO - MySQL connected successfully
+04-10-2026 10:52:37 - root - INFO - Table created successfully: marketing
+04-10-2026 10:53:03 - root - INFO - Data inserted successfully into marketing
+04-10-2026 10:53:03 - root - INFO - Table created successfully: operations
+04-10-2026 10:53:26 - root - INFO - Data inserted successfully into operations
+04-10-2026 10:53:26 - root - INFO - Table created successfully: sales
+04-10-2026 10:53:51 - root - INFO - Data inserted successfully into sales
+04-10-2026 10:53:51 - root - INFO - Table created successfully: finance
+04-10-2026 10:54:20 - root - INFO - Data inserted successfully into finance
+04-10-2026 10:54:20 - root - INFO - Table created successfully: hr
+04-10-2026 10:54:53 - root - INFO - Data inserted successfully into hr
+04-10-2026 10:54:53 - root - INFO - Table created successfully: admin
+04-10-2026 10:55:20 - root - INFO - Data inserted successfully into admin
+04-10-2026 10:55:20 - root - INFO - Table created successfully: it
+04-10-2026 10:55:51 - root - INFO - Data inserted successfully into it
+04-10-2026 10:55:51 - root - INFO - Table created successfully: support
+04-10-2026 10:56:25 - root - INFO - Data inserted successfully into support
+04-10-2026 10:56:25 - root - INFO - Time required: 231.42516374588013 seconds
+04-10-2026 10:56:25 - root - INFO - Assignment 12 completed
+04-10-2026 10:57:13 - root - INFO - Assignment 12 started - With Threading
+04-10-2026 10:57:16 - root - INFO - CSV file read successfully
+04-10-2026 10:57:16 - root - INFO - Data separated department wise
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:57:16 - root - INFO - MySQL connected successfully
+04-10-2026 10:59:03 - root - INFO - Support completed successfully
+04-10-2026 10:59:04 - root - INFO - Marketing completed successfully
+04-10-2026 10:59:04 - root - INFO - Admin completed successfully
+04-10-2026 10:59:04 - root - INFO - Operations completed successfully
+04-10-2026 10:59:04 - root - INFO - Sales completed successfully
+04-10-2026 10:59:04 - root - INFO - HR completed successfully
+04-10-2026 10:59:05 - root - INFO - IT completed successfully
+04-10-2026 10:59:09 - root - INFO - Finance completed successfully
+04-10-2026 10:59:09 - root - INFO - All threads completed
+04-10-2026 10:59:09 - root - INFO - Time required: 116.66967678070068 seconds
+04-10-2026 10:59:09 - root - INFO - Assignment 12 completed
