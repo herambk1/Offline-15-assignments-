@@ -1,1 +1,0 @@
-{'characters': 66, 'words': 8, 'numeric': 30, 'special_characters': 6, 'lines': 8}

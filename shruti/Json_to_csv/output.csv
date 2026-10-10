@@ -1,0 +1,4 @@
+id,firstName,lastName,age,gender,email,department,salary,skills,address
+1,Aarav,Sharma,28,male,aarav.sharma@example.com,IT,72000,"['Python', 'SQL', 'Excel']","{'city': 'Pune', 'state': 'Maharashtra', 'pincode': '411001'}"
+2,Priya,Patil,26,female,priya.patil@example.com,HR,65000,"['Python', 'Excel']","{'city': 'Mumbai', 'state': 'Maharashtra', 'pincode': '400001'}"
+3,Rahul,Joshi,30,male,rahul.joshi@example.com,Finance,75000,"['SQL', 'Excel']","{'city': 'Nashik', 'state': 'Maharashtra', 'pincode': '422001'}"
